@@ -73,3 +73,5 @@ This GitHub repository contains a Python implementation of a Hospital Informatio
 ## Note
 
 Ensure that the necessary dependencies (`Pandas`, `datetime`) are installed before running the system.
+
+Arman Kianian
